@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE root SYSTEM "lang.dtd">
+<root>
+    <fr>
+        <commonData>
+            <resume>CV</resume>
+            <youtuberPage>Présentation d'un youtuber</youtuberPage>
+            <templateLink>Lien vers le template utilisé</templateLink>
+        </commonData>
+        <mainPage>
+            <title>Mon Portfolio</title>
+            <firstName>Maxime</firstName>
+            <lastName>Poujade</lastName>
+            <company>Entreprise :</company>
+            <companyName>Dassault Systèmes</companyName>
+            <school>École :</school>
+            <schoolName>Sup-Galilée</schoolName>
+            <aboutPosition>Apprenti en cursus ingénieur en informatique</aboutPosition>
+            <aboutDescription>Je suis un apprenti ingénieur en informatique actuellement en alternance chez Dassault Systèmes, ma mission est d&#x27;améliorer l&#x27;outil de monitoring de l&#x27;équipe que j&#x27; ai rejoins.</aboutDescription>
+            <experienceTitle>Expérience</experienceTitle>
+            <experienceName>Dassault Systèmes</experienceName>
+            <experienceAddr>Vélizy-Villacoublay - France</experienceAddr>
+            <experienceDuration>Septembre 2022 - Aujourd&#x27;hui</experienceDuration>
+            <experienceJobName>Développeur JAVA/WEB</experienceJobName>
+            <experienceDesc>Travail sur un outil de monitoring interne</experienceDesc>
+            <educationTitle>Formation</educationTitle>
+            <education1SchoolName>Institut Galilée</education1SchoolName>
+            <education1Addr>Villetaneuse - Seine-Saint-Denis</education1Addr>
+            <education1Duration>Septembre 2022 - Aujourd&#x27;hui</education1Duration>
+            <education1Name>Formation ingénieur en alternance</education1Name>
+            <education1Desc>Cursus informatique</education1Desc>
+            <education2SchoolName>Institut Galilée</education2SchoolName>
+            <education2Addr>Villetaneuse - Seine-Saint-Denis</education2Addr>
+            <education2Duration>Septembre 2021 - Juillet 2022</education2Duration>
+            <education2Name>Formation ingénieur</education2Name>
+            <education2Desc>Cursus informatique</education2Desc>
+            <education3SchoolName>Institut Galilée</education3SchoolName>
+            <education3Addr>Villetaneuse - Seine-Saint-Denis</education3Addr>
+            <education3Duration>Septembre 2019 - Juillet 2021</education3Duration>
+            <education3Name>Cursus Préparatoire Ingénieur Intégré</education3Name>
+            <projectTitle>Projets</projectTitle>
+            <project1Name>Morpion et MENACE</project1Name>
+            <project1Language>C</project1Language>
+            <project1Desc>Conception d&#x27;un jeu de tic-tac-toe et d&#x27;une intelligence artificielle de type MENACE jouant à ce jeu</project1Desc>
+            <project2Name>TETRIS</project2Name>
+            <project2Language>C</project2Language>
+            <project2Desc>Conception d&#x27;un jeu de TETRIS à l&#x27;aide de la librairie SDL2</project2Desc>
+            <project3Name>Concepteur et résolveur de labyrinthe</project3Name>
+            <project3Language>JAVA</project3Language>
+            <project3Desc>Conception d&#x27;un générateur/solveur de labyrinthe</project3Desc>
+            <interestsTitle>Centre d&#x27;intérêts</interestsTitle>
+            <interestsDesc>Badminton, Jeux Vidéos</interestsDesc>
+        </mainPage>
+        <youtuberPresentation>
+            <title>Présentation d'un youtuber</title>
+            <name>MrBeast</name>
+            <youtube>youtube :</youtube>
+            <presentation>Présentation</presentation>
+            <wikipedia>texte provenant de wikipédia :</wikipedia>
+            <description>Jimmy Donaldson a commencé sa carrière sur YouTube en 2012 à 13 ans, sous le pseudonyme « MrBeast6000 » ; ses premiers contenus allaient de Let's Plays à « des vidéos évaluant la richesse des autres YouTubeurs ». Cependant, ses vidéos sont restées dans l'obscurité relative — avec une moyenne d'environ mille vues chacune — jusqu'à la sortie de sa vidéo de 2017 « Je compte jusqu'à 100 000 » qui « a gagné des dizaines de milliers de vues en seulement quelques jours ». Le 8 février 2022, MrBeast atteint la barre des 90 millions d'abonnés sur sa chaîne YouTube. Le 28 juillet 2022, sa chaîne principale atteint les 100 millions d'abonnés et devient la cinquième chaine YouTube dépassant ce chiffre, et la deuxième chaine individuelle après PewDiePie. En novembre 2022, sa chaîne devient la plus suivie sur Youtube avec 112 millions de personnes suivies.
+
+                Il a créé plusieurs chaînes en anglais en plus de sa chaîne principale, notamment une chaîne où il joue a des jeux vidéo qui se nomme MrBeast Gaming, une chaîne où il réagit à des vidéos intitulée Beast Reacts, une chaîne où il poste des vidéos bonus nommée MrBeast 2, une chaîne où il poste des vidéos de philanthropie nommée Beast Philanthropy et une chaîne où il poste des vidéos courtes de moins d'une minute intitulée Beast Shorts.
+
+                Depuis le mois de juillet 2021 , il a créé des chaînes dans des langues étrangères à l'anglais et fait doubler ses vidéos en espagnol, en français, en portugais, en russe, en hindi et en arabe. </description>
+            <video>Vidéo</video>
+        </youtuberPresentation>
+    </fr>
+    <en>
+        <commonData>
+            <resume>Resume</resume>
+            <youtuberPage>Presentation of a youtuber</youtuberPage>
+            <templateLink>Link to the template used</templateLink>
+        </commonData>
+        <mainPage>
+            <title>My Portfolio</title>
+            <firstName>Maxime</firstName>
+            <lastName>Poujade</lastName>
+            <company>Company:</company>
+            <companyName>3DS</companyName>
+            <school>School:</school>
+            <schoolName>Sup-Galilée</schoolName>
+            <aboutPosition>Computer engineering apprentice</aboutPosition>
+            <aboutDescription>I am an apprentice computer engineer currently on a work-study program at Dassault Systèmes, my main mission is to improve the internal monitoring tool of the team I joined.</aboutDescription>
+            <experienceTitle>Experience</experienceTitle>
+            <experienceName>3DS</experienceName>
+            <experienceAddr>Vélizy-Villacoublay - France</experienceAddr>
+            <experienceDuration>September 2022 - Today</experienceDuration>
+            <experienceJobName>JAVA/WEB developer</experienceJobName>
+            <experienceDesc>Work on an internal monitoring tool</experienceDesc>
+            <educationTitle>Education</educationTitle>
+            <education1SchoolName>Institut Galilée</education1SchoolName>
+            <education1Addr>Villetaneuse - Seine-Saint-Denis</education1Addr>
+            <education1Duration>September 2022 - Today</education1Duration>
+            <education1Name>Apprenticeship Education Program</education1Name>
+            <education1Desc>Major in computer science</education1Desc>
+            <education2SchoolName>Institut Galilée</education2SchoolName>
+            <education2Addr>Villetaneuse - Seine-Saint-Denis</education2Addr>
+            <education2Duration>September 2021 - July 2022</education2Duration>
+            <education2Name>Engineering program</education2Name>
+            <education2Desc>Major in computer science</education2Desc>
+            <education3SchoolName>Institut Galilée</education3SchoolName>
+            <education3Addr>Villetaneuse - Seine-Saint-Denis</education3Addr>
+            <education3Duration>September 2019 - July 2021</education3Duration>
+            <education3Name>preparatory class</education3Name>
+            <projectTitle>Projects</projectTitle>
+            <project1Name>Morpion and MENACE</project1Name>
+            <project1Language>C</project1Language>
+            <project1Desc>Design of a tic-tac-toe game and a MENACE type artificial intelligence playing this game</project1Desc>
+            <project2Name>TETRIS</project2Name>
+            <project2Language>C</project2Language>
+            <project2Desc>Design of a TETRIS game using the SDL2 library</project2Desc>
+            <project3Name>Maze designer and solver</project3Name>
+            <project3Language>JAVA</project3Language>
+            <project3Desc>Design of a maze generator/solver</project3Desc>
+            <interestsTitle>Interests</interestsTitle>
+            <interestsDesc>Badminton, Video games</interestsDesc>
+        </mainPage>
+        <youtuberPresentation>
+            <title>Introducing a youtuber</title>
+            <name>MrBeast</name>
+            <youtube>youtube:</youtube>
+            <presentation>Presentation</presentation>
+            <wikipedia>text from wikipedia:</wikipedia>
+            <description>James Stephen "Jimmy" Donaldson (born May 7, 1998), better known as MrBeast, is an American YouTuber and philanthropist. He is credited with pioneering a genre of YouTube videos that centers on expensive stunts. His YouTube channel reached 130 million subscribers in January 2023, making it the fourth-most-subscribed on the platform.
+
+                Donaldson began posting videos to YouTube in early 2012 at the age of 13 under the handle MrBeast6000; his early content ranged from Let's Plays to "videos estimating the wealth of other YouTubers." He went viral in 2017 after his "counting to 100,000" video earned tens of thousands of views in just a few days, and he has become increasingly popular ever since, with most of his videos gaining tens of millions of views. Over time, his style of content diversified to include challenge and donation videos that reward thousands of dollars, videos with arduous tasks or survival challenges, and original vlogs. Once his channel took off, Donaldson hired several of his childhood friends to help him run the growing brand. As of 2022, the MrBeast team is made up of 30 people, including Donaldson himself.
+
+                Other than MrBeast, Donaldson runs the YouTube channels Beast Reacts, MrBeast Gaming, MrBeast 2 (formerly MrBeast Shorts), and the philanthropy channel Beast Philanthropy. He formerly ran MrBeast 3 (initially MrBeast 2), which is now inactive. He was also one of the 10 highest-paid YouTubers of 2020. Donaldson is also the founder of MrBeast Burger and Feastables, and a co-creator of Team Trees, a fundraiser for the Arbor Day Foundation that has raised over $23 million, and Team Seas, a fundraiser for Ocean Conservancy and The Ocean Cleanup that has raised over $30 million. Donaldson won the Creator of the Year award three times at the Streamy Awards in 2020, 2021, and 2022; he also won the Favorite Male Creator award twice at the Nickelodeon Kids' Choice Awards in 2022 and 2023. </description>
+            <video>Video</video>
+        </youtuberPresentation>
+    </en>
+    <ja>
+        <commonData>
+            <resume>履歴書</resume>
+            <youtuberPage>ユーチューバーの紹介</youtuberPage>
+            <templateLink>使用したテンプレートへのリンク</templateLink>
+        </commonData>
+        <mainPage>
+            <title>私のポートフォリオ</title>
+            <firstName>マキシム</firstName>
+            <lastName>プジャード</lastName>
+            <company>仕事 ：</company>
+            <companyName>ダッソー・システムズ</companyName>
+            <school>学校 ：</school>
+            <schoolName>Sup-Galilée</schoolName>
+            <aboutPosition>コンピューター工学見習い</aboutPosition>
+            <aboutDescription>私は現在、ダッソー・システムズの実習プログラムに参加している見習いコンピューター エンジニアです。私の主な任務は、参加したチームの内部監視ツールを改善することです。</aboutDescription>
+            <experienceTitle>経験</experienceTitle>
+            <experienceName>ダッソー・システムズ</experienceName>
+            <experienceAddr>Vélizy-Villacoublay - フランス</experienceAddr>
+            <experienceDuration>2022 年 9 月 - 今日</experienceDuration>
+            <experienceJobName>JAVA/WEB デベロッパー</experienceJobName>
+            <experienceDesc>内部監視ツールに取り組む</experienceDesc>
+            <educationTitle>トレーニング</educationTitle>
+            <education1SchoolName>Institut Galilée</education1SchoolName>
+            <education1Addr>Villetaneuse - Seine-Saint-Denis</education1Addr>
+            <education1Duration>2022 年 9 月 - 今日</education1Duration>
+            <education1Name>実務工学研修</education1Name>
+            <education1Desc>ITコース</education1Desc>
+            <education2SchoolName>Institut Galilée</education2SchoolName>
+            <education2Addr>Villetaneuse - Seine-Saint-Denis</education2Addr>
+            <education2Duration>2021年9月～2022年7月</education2Duration>
+            <education2Name>エンジニア研修</education2Name>
+            <education2Desc>ITコース</education2Desc>
+            <education3SchoolName>Institut Galilée</education3SchoolName>
+            <education3Addr>Villetaneuse - Seine-Saint-Denis</education3Addr>
+            <education3Duration>2019年9月～2021年7月</education3Duration>
+            <education3Name>準備クラス</education3Name>
+            <projectTitle>プロジェクト</projectTitle>
+            <project1Name>Tic Tac Toe と MENACE</project1Name>
+            <project1Language>C</project1Language>
+            <project1Desc>三目並べゲームの設計とこのゲームをプレイするMENACE型人工知能</project1Desc>
+            <project2Name>テトリス</project2Name>
+            <project2Language>C</project2Language>
+            <project2Desc>SDL2 ライブラリを使用したテトリス ゲームの設計</project2Desc>
+            <project3Name>迷路デザイナーおよびソルバー</project3Name>
+            <project3Language>JAVA</project3Language>
+            <project3Desc>迷路ジェネレーター/ソルバーの設計</project3Desc>
+            <interestsTitle>関心の中心</interestsTitle>
+            <interestsDesc>バドミントン、テレビゲーム</interestsDesc>
+        </mainPage>
+        <youtuberPresentation>
+            <title>ユーチューバー紹介</title>
+            <name>MrBeast</name>
+            <youtube>ユーチューブ :</youtube>
+            <presentation>プレゼンテーション</presentation>
+            <wikipedia>ウィキペディアからのテキスト:</wikipedia>
+            <description>2012年2月、13歳の時に「MrBeast6000」というハンドルネームで初めてYouTube動画をアップロードした。初期のコンテンツは、主にMinecraftとCall of Duty:Black Ops 2に焦点を当てた人で、他のYouTuberの財産を推定する動画、これからYouTubeを始めるクリエイターへのヒントとなる動画、YouTubeドラマに関するコメントなど多岐にわたっている。このチャンネルの初期には、ドナルドソン自身はほとんど動画に出演していない。
+
+                2013年7月時点で、当時「That-dude」と名付けられていた彼のチャンネルの登録者数は約240人であった。
+
+                2015年から2016年にかけて、ドナルドソンは、同サイトで発見したYouTuberの紹介文を丸めてからかう「最悪のイントロ」シリーズの動画で、同プラットフォームでの人気を獲得し始めた。2016年半ばまでに、Donaldsonの登録者数は約3万人に達した。2016年秋、ドナルドソンはYouTuberとしてフルタイムのキャリアを追求するためにイーストカロライナ大学を中退した。 彼の母親はこれを認めず、彼を実家から追い出した。
+
+                チャンネルが成長するにつれて、Donaldson は 4 人の幼なじみ (Chris Tyson、Chandler Hallow、Garrett Ronalds、Jake Franklin) を雇った。 </description>
+            <video>ビデオ</video>
+        </youtuberPresentation>
+    </ja>
+</root>
